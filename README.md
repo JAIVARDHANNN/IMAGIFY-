@@ -47,4 +47,4 @@ Undo/Redo functionality: To improve the user experience, I plan to implement und
 Brush Size/Color Control: Allowing users to modify the brush size and color would give them more control over their drawing.
 Advanced Masking Options: Adding more options for creating and refining the mask could improve the tool's flexibility.
 
-
+(IN THE SRC FOLDER YOU WILL GET ALL THE FOLDERS CONTAINING CODE OF THE WEBSITE)
