@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -7,7 +7,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
+
 # IMAGIFY
 A web-based image inpainting app that allows users to upload an image, draw a mask on it, and export both the original image and the mask. Built with React, Fabric.js, and react-canvas-draw for seamless drawing functionality."
 
@@ -47,4 +47,4 @@ Undo/Redo functionality: To improve the user experience, I plan to implement und
 Brush Size/Color Control: Allowing users to modify the brush size and color would give them more control over their drawing.
 Advanced Masking Options: Adding more options for creating and refining the mask could improve the tool's flexibility.
 
->>>>>>> f896904debd078a9ea71c510ab2a229ad9b9bad4
+
